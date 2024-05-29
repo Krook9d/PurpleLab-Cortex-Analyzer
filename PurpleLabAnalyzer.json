@@ -1,0 +1,28 @@
+{
+  "name": "PurpleLabAnalyzer",
+  "version": "1.0",
+  "author": "Krook9d",
+  "url": "https://github.com/Krook9d/Cortex-Analyzers",
+  "license": "AGPL-V3",
+  "description": "Uploads a file to PurpleLab for analysis.",
+  "dataTypeList": ["file"],
+  "baseConfig": "PurpleLab",
+  "configurationItems": [
+    {
+      "name": "url",
+      "description": "PurpleLab API URL for sending files.",
+      "type": "string",
+      "multi": false,
+      "required": true,
+      "defaultValue": ""
+    },
+    {
+      "name": "token",
+      "description": "Authorization token for PurpleLab API.",
+      "type": "string",
+      "multi": false,
+      "required": true
+    }
+  ],
+  "command": "Purplelab/PurpleLabAnalyzer.py"
+}
