@@ -3,3 +3,8 @@
 
 # PurpleLab-Cortex-Analyzer
 PurpleLab Cortex Analyzer enhances TheHive incident responses by automating uploads and detonations of executables tied to cases. This tool streamlines SOC workflows, improving threat analysis and security outcomes.
+
+
+## Instalation : 
+
+put the two files in the `/opt/Cortex-Analyzers/analyzers/` folder
