@@ -8,3 +8,7 @@ PurpleLab Cortex Analyzer enhances TheHive incident responses by automating uplo
 ## Instalation : 
 
 put the two files in the `/opt/Cortex-Analyzers/analyzers/` folder
+
+
+https://github.com/Krook9d/PurpleLab-Cortex-Analyzer/assets/40600995/690a8728-4ba7-4fda-a12e-48708e9b7d1d
+
