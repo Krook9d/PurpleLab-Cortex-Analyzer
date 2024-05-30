@@ -7,11 +7,9 @@ PurpleLab Cortex Analyzer enhances TheHive incident responses by automating uplo
 
 ## Instalation : 
 
-put the two files in the `/opt/Cortex-Analyzers/analyzers/` folder
-
-In PurpleLabAnalyzer.py change YourPurpleLabURL occurences with the IP of your purplelab instance
-
-On cortex, configure the analyzer : 
+1. Place the two files in the '/opt/Cortex-Analyzers/analyzers/' folder.
+2. In 'PurpleLabAnalyzer.py', replace all occurrences of 'YourPurpleLabURL' with the IP address of your PurpleLab instance.
+3. Configure the analyzer in Cortex.
 
 ![image](https://github.com/Krook9d/PurpleLab-Cortex-Analyzer/assets/40600995/e187317e-8821-467a-8957-bf7093f877af)
 
